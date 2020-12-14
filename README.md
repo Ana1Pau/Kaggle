@@ -1,7 +1,7 @@
 # Kaggle
 KaggleExercises
 
-#Within this Folder .I am creating a folder with some exercises exctracted from kaggle in order to use and understand better AI Algorithms.Both Machine and AI(Algorithms). 
+#Within this Folder .I am creating a folder with some exercises exctracted from kaggle in order to use and understand better AI Algorithms.Both Machine Learning and AI(Algorithms). 
 
 1.Exercise
 This dataset has details about the water availability in the four main reservoirs over the last 15 years
